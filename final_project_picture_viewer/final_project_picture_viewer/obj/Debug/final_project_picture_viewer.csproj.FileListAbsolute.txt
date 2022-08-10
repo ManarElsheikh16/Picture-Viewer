@@ -1,0 +1,18 @@
+c:\users\laptop market\documents\visual studio 2015\Projects\final_project_picture_viewer\final_project_picture_viewer\bin\Debug\final_project_picture_viewer.exe.config
+c:\users\laptop market\documents\visual studio 2015\Projects\final_project_picture_viewer\final_project_picture_viewer\obj\Debug\final_project_picture_viewer.csprojResolveAssemblyReference.cache
+c:\users\laptop market\documents\visual studio 2015\Projects\final_project_picture_viewer\final_project_picture_viewer\obj\Debug\final_project_picture_viewer.Form1.resources
+c:\users\laptop market\documents\visual studio 2015\Projects\final_project_picture_viewer\final_project_picture_viewer\obj\Debug\final_project_picture_viewer.Properties.Resources.resources
+c:\users\laptop market\documents\visual studio 2015\Projects\final_project_picture_viewer\final_project_picture_viewer\obj\Debug\final_project_picture_viewer.csproj.GenerateResource.Cache
+c:\users\laptop market\documents\visual studio 2015\Projects\final_project_picture_viewer\final_project_picture_viewer\bin\Debug\final_project_picture_viewer.exe
+c:\users\laptop market\documents\visual studio 2015\Projects\final_project_picture_viewer\final_project_picture_viewer\bin\Debug\final_project_picture_viewer.pdb
+c:\users\laptop market\documents\visual studio 2015\Projects\final_project_picture_viewer\final_project_picture_viewer\obj\Debug\final_project_picture_viewer.exe
+c:\users\laptop market\documents\visual studio 2015\Projects\final_project_picture_viewer\final_project_picture_viewer\obj\Debug\final_project_picture_viewer.pdb
+D:\FCI_BIOINFORMATICS\FCI\third year\first term\c#\final_project_picture_viewer\final_project_picture_viewer\bin\Debug\final_project_picture_viewer.exe.config
+D:\FCI_BIOINFORMATICS\FCI\third year\first term\c#\final_project_picture_viewer\final_project_picture_viewer\bin\Debug\final_project_picture_viewer.exe
+D:\FCI_BIOINFORMATICS\FCI\third year\first term\c#\final_project_picture_viewer\final_project_picture_viewer\bin\Debug\final_project_picture_viewer.pdb
+D:\FCI_BIOINFORMATICS\FCI\third year\first term\c#\final_project_picture_viewer\final_project_picture_viewer\obj\Debug\final_project_picture_viewer.csprojResolveAssemblyReference.cache
+D:\FCI_BIOINFORMATICS\FCI\third year\first term\c#\final_project_picture_viewer\final_project_picture_viewer\obj\Debug\final_project_picture_viewer.Form1.resources
+D:\FCI_BIOINFORMATICS\FCI\third year\first term\c#\final_project_picture_viewer\final_project_picture_viewer\obj\Debug\final_project_picture_viewer.Properties.Resources.resources
+D:\FCI_BIOINFORMATICS\FCI\third year\first term\c#\final_project_picture_viewer\final_project_picture_viewer\obj\Debug\final_project_picture_viewer.csproj.GenerateResource.Cache
+D:\FCI_BIOINFORMATICS\FCI\third year\first term\c#\final_project_picture_viewer\final_project_picture_viewer\obj\Debug\final_project_picture_viewer.exe
+D:\FCI_BIOINFORMATICS\FCI\third year\first term\c#\final_project_picture_viewer\final_project_picture_viewer\obj\Debug\final_project_picture_viewer.pdb
